@@ -14,8 +14,8 @@ const Home = () => {
       <LandingNav />
       <Hero />
       <Features />
-      <Payments />
-      <CustomerLogos />
+      {/* <Payments /> */}
+      {/* <CustomerLogos /> */}
       <Footer />
     </div>
   );
